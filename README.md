@@ -28,7 +28,8 @@ AkileCloud提供的VPS服务以高性能和稳定性闻名，特别适合需要�
 | 韩国KRBGP     | 1核 | 1GB  | 10GB| 1000GB | 38元/月   | [购买](https://akile.io/shop/server?type=traffic&areaId=8&nodeId=61&planId=368&aff_code=24a6f6bd-f995-4158-a9fd-f4b6aef27811) |
 
 
-其他套餐配置，查看最新活动套餐，请访问：[www.akile.io/shop/server](https://akile.io/shop/server?type=traffic&aff_code=24a6f6bd-f995-4158-a9fd-f4b6aef27811)
+- 其他套餐配置，查看最新活动套餐，请访问：[www.akile.io/shop/server](https://akile.io/shop/server?type=traffic&aff_code=24a6f6bd-f995-4158-a9fd-f4b6aef27811)
+
 
 ### Tokyo BGP Lite V3
 
